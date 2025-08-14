@@ -39,7 +39,3 @@ I am seeking highly motivated Interns! Please contact me if you are interested i
 - [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://proceedings.neurips.cc/paper_files/paper/2024/file/8329a45669017898bb0cc09d27f8d2bb-Paper-Conference.pdf), Yuhong Chou*, **Man Yao\***, Kexin Wang, Yuqi Pan, Ruijie Zhu, Yiran Zhong, Yu Qiao, Jibin Wu, Bo Xu, Guoqi Li, **NeurIPS 2024 (Oral, Acceptance Rate: 2%)**.
 - [Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32126), Zhenxin Lei, **Man Yao#**, Jiakui Hu, Xinhao Luo, Yanye Lu, Bo Xu, Guoqi Li#, **AAAI 2025 (Oral, Acceptance Rate: 4.6%)**.
 
-# 🎖 Honors and Awards
-- *2023.08* China Computational Power Conference Best Academic Paper. 
-- *2024.05* Graduate with Honor of Xi'an Jiaotong University during the academic year of 2023-2024.
-
