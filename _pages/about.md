@@ -25,7 +25,6 @@ My research interests include brain-inspired computing, neuromorphic computing, 
 
 I am seeking highly motivated Interns! Please contact me if you are interested in my research!
 
-
 # 📝 Representative Publications 
 
 - [Spike-based dynamic computing with asynchronous sensing-computing neuromorphic chip](https://www.nature.com/articles/s41467-024-47811-6), **Man Yao**, Ole Richter, Guangshe Zhao, Ning Qiao, Yannan Xing, Dingheng Wang, Tianxiang Hu, Wei Fang, Tugba Demirci, Michele De Marchi, Lei Deng, Tianyi Yan, Carsten Nielsen, Sadique Sheik, Chenxi Wu, Yonghong Tian, Bo Xu, Guoqi Li, **Nature Communications 2024 (ESI Highly Cited Papar)**.
